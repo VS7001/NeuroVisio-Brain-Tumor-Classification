@@ -72,6 +72,7 @@ Open the extracted folder in **VS Code** or **Jupyter Notebook**.
 Run this command in the terminal:
 ```bash
 pip install -r requirements.txt
+```
 
 ### 5️⃣ Run the Application
 To start the project, run:
